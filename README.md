@@ -1,3 +1,6 @@
+Adapter
+
+
 ## Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning
 
 This repository contains pre-trained models, code for pre-training and evaluation for our paper [Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118).
